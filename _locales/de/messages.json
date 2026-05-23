@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "Mail-Bilder Verkleinere"
+  },
+  "extensionDescription": {
+    "message": "Verkleinert Bilder im Anhang automatisch mit einem Klick. Spart Platz und verhindert zu große E-Mails."
+  },
+  "composeButtonTitle": {
+    "message": "Jetzt komprimieren"
+  }
+}
