@@ -11,6 +11,17 @@ A simple Thunderbird add-on that compresses image attachments with one click bef
 
 Mail-Bilder Verkleinere is the simple solution for everyone who regularly sends photos by email. With just one click, attached images are automatically resized and the originals are replaced – without prompts, without complicated settings.
 
+## Background
+
+This add-on was created because two previously popular Thunderbird add-ons – 
+"auto resize image" and "shrunk image resizer" – were no longer maintained and 
+stopped working in newer Thunderbird versions. After a friend pointed out that 
+his everyday workflow (sending vacation photos via email) was broken, I built 
+this add-on as a modern, actively maintained replacement.
+
+Many users in the reviews mention finding this add-on while searching for a 
+working alternative to the discontinued tools.
+
 ## Features
 
 - **„Jetzt komprimieren" button** in the compose window
