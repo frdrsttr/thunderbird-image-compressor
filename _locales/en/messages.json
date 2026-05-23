@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "Mail Image Compressor"
+  },
+  "extensionDescription": {
+    "message": "Automatically compresses attached images with one click. Saves space and prevents oversized emails."
+  },
+  "composeButtonTitle": {
+    "message": "Compress now"
+  }
+}
