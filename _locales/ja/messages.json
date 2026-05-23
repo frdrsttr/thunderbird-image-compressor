@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "メール画像圧縮ツール"
+  },
+  "extensionDescription": {
+    "message": "添付画像をワンクリックで自動的に圧縮します。容量を節約し、大きすぎるメールを防ぎます。"
+  },
+  "composeButtonTitle": {
+    "message": "今すぐ圧縮"
+  }
+}
