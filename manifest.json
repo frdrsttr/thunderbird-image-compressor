@@ -1,0 +1,43 @@
+{
+  "manifest_version": 2,
+  "default_locale": "en",
+  "name": "__MSG_extensionName__",
+  "version": "1.1.0",
+  "description": "__MSG_extensionDescription__",
+  "author": "Unabhängiger Entwickler",
+  "homepage_url": "https://addons.thunderbird.net/",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "thunderbird-image-compressor@example.com",
+      "strict_min_version": "115.0"
+    }
+  },
+  "permissions": [
+    "compose",
+    "composeAction",
+    "storage"
+  ],
+  "icons": {
+    "48": "icons/icon.svg",
+    "96": "icons/icon.svg"
+  },
+  "background": {
+    "scripts": [
+      "background.js",
+      "compressor.js"
+    ]
+  },
+  "compose_action": {
+    "default_title": "__MSG_composeButtonTitle__",
+    "default_area": "maintoolbar",
+    "default_icon": {
+      "16": "icons/icon.svg",
+      "32": "icons/icon.svg"
+    }
+  },
+  "licenses": {
+    "MIT": {
+      "url": "https://opensource.org/licenses/MIT"
+    }
+  }
+}
