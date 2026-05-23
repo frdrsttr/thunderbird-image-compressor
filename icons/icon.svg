@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title>Foto-Icon – Ein Rahmen, gefüllt</title>
+  <desc>Ein einzelner, dicker Rahmen mit gefüllter Bergsilhouette und Sonne; für kleine Größen optimiert</desc>
+  <!-- Rahmen -->
+  <rect x="12" y="22" width="104" height="84" rx="6" ry="6" fill="none" stroke="currentColor" stroke-width="8" />
+  <!-- Foto-Inhalt -->
+  <g fill="currentColor">
+    <circle cx="40" cy="44" r="6"/>
+    <path d="M24 96l26-34 12 16 10-12 32 30z"/>
+  </g>
+</svg>
