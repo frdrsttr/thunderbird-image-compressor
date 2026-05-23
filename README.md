@@ -1,59 +1,59 @@
-# Mail-Bilder Verkleinerer / Thunderbird Image Compressor
+# Mail-Bilder Verkleinere / Thunderbird Image Compressor
 
-A simple Thunderbird add-on that compresses image attachments with one click before sending – reducing 150 MB of photos down to 10–45 MB locally, without needing cloud links or external tools.
+Ein einfaches Thunderbird-Add-on, das Bildanhänge mit einem Klick vor dem Versenden komprimiert – verkleinert 150 MB Fotos auf 10–45 MB, vollständig lokal, ohne Cloud-Links oder externe Tools.
 
-**Available on the official Thunderbird Add-on store:**  
+**Verfügbar im offiziellen Thunderbird Add-on Store:**  
 👉 https://addons.thunderbird.net/de/thunderbird/addon/thunderbird-image-compressor/
 
 ---
 
-## Description
+## Beschreibung
 
-Mail-Bilder Verkleinere is the simple solution for everyone who regularly sends photos by email. With just one click, attached images are automatically resized and the originals are replaced – without prompts, without complicated settings.
+Mail-Bilder Verkleinere ist die einfache Lösung für alle, die regelmäßig Fotos per E-Mail verschicken. Mit nur einem Klick werden angehängte Bilder automatisch verkleinert und die Originale ersetzt – ohne Rückfragen, ohne komplizierte Einstellungen.
 
 ## Hintergrund
 
-Dieses Add-on ist entstanden, weil zwei zuvor beliebte Thunderbird-Add-ons – "auto resize image" und "shrunk image resizer" – nicht mehr weiterentwickelt wurden und in neueren Thunderbird-Versionen nicht mehr funktionierten. Als ein Bekannter mir erzählte, dass sein alltäglicher Ablauf (Urlaubsfotos per E-Mail verschicken) plötzlich nicht mehr funktionierte, habe ich dieses Add-on als modernen, aktiv gepflegten Ersatz entwickelt.
+Dieses Add-on ist entstanden, weil zwei zuvor beliebte Thunderbird-Add-ons – „auto resize image" und „shrunk image resizer" – nicht mehr weiterentwickelt wurden und in neueren Thunderbird-Versionen nicht mehr funktionierten. Als ein Bekannter mir erzählte, dass sein alltäglicher Ablauf (Urlaubsfotos per E-Mail verschicken) plötzlich nicht mehr funktionierte, habe ich dieses Add-on als modernen, aktiv gepflegten Ersatz entwickelt.
 
 In den Bewertungen erwähnen viele Nutzer, dass sie dieses Add-on bei der Suche nach einer funktionierenden Alternative zu den eingestellten Tools entdeckt haben.
 
-## Features
+## Funktionen
 
-- **„Jetzt komprimieren" button** in the compose window
-- Supports **JPEG, PNG, and WebP**
-- **Default:** images are resized to max. 1280 pixels (long edge) and 70% quality
-- **Replaces originals automatically** with the smaller version
-- **No further dialogs or prompts** – just click and done
+- **Button „Jetzt komprimieren"** im Verfassen-Fenster
+- Unterstützt **JPEG, PNG und WebP**
+- **Standard:** Bilder werden auf max. 1280 Pixel (lange Seite) und 70 % Qualität verkleinert
+- **Ersetzt die Originale automatisch** durch die kleinere Version
+- **Keine weiteren Dialoge oder Nachfragen** – einfach klicken und fertig
 
-## Benefits
+## Vorteile
 
-- Saves storage space in your mailbox
-- Prevents your emails from being rejected due to oversized attachments
-- Easy to use – ideal for anyone who sends photos without wanting to worry about file sizes
+- Spart Speicherplatz im Postfach
+- Verhindert, dass E-Mails wegen zu großer Anhänge abgelehnt werden
+- Einfach zu bedienen – ideal für alle, die Fotos verschicken, ohne sich um Dateigrößen kümmern zu wollen
 
-## Notes
+## Hinweise
 
-- Transparent PNGs are converted to JPEG (white background)
-- Animated GIFs are not modified
-- Compression runs **entirely locally** – no data leaves your computer
+- Transparente PNGs werden in JPEG umgewandelt (weißer Hintergrund)
+- Animierte GIFs werden nicht verändert
+- Die Komprimierung erfolgt **vollständig lokal** – keine Daten verlassen deinen Computer
 
-## Supported Languages
+## Verfügbare Sprachen
 
-The extension is available in 7 languages: German (de), English (en), Spanish (es), French (fr), Italian (it), Japanese (ja), and Brazilian Portuguese (pt_BR).
+Das Add-on ist in 7 Sprachen verfügbar: Deutsch (de), Englisch (en), Spanisch (es), Französisch (fr), Italienisch (it), Japanisch (ja) und brasilianisches Portugiesisch (pt_BR).
 
 ## Installation
 
-The recommended way to install is via the official Thunderbird Add-on store:  
+Der empfohlene Weg zur Installation führt über den offiziellen Thunderbird Add-on Store:  
 👉 https://addons.thunderbird.net/de/thunderbird/addon/thunderbird-image-compressor/
 
-## Usage
+## Verwendung
 
-After installation, a **„Jetzt komprimieren"** (Compress now) button appears in the toolbar of the compose window. Click it once after attaching images – all images are compressed in place automatically.
+Nach der Installation erscheint im Verfassen-Fenster ein Button **„Jetzt komprimieren"** in der Symbolleiste. Einfach nach dem Anhängen der Bilder einmal anklicken – alle Bilder werden automatisch direkt im Anhang komprimiert.
 
-## Compatibility
+## Kompatibilität
 
-Compatible with Thunderbird 115.0 and later.
+Kompatibel mit Thunderbird 115.0 und neuer.
 
-## License
+## Lizenz
 
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+Dieses Projekt steht unter der MIT-Lizenz – siehe die [LICENSE](LICENSE)-Datei für Details.
