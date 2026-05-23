@@ -1,0 +1,11 @@
+{
+  "extensionName": {
+    "message": "Compresseur d'images pour e-mails"
+  },
+  "extensionDescription": {
+    "message": "Compresse automatiquement les images jointes en un clic. Économise de l'espace et évite les e-mails trop volumineux."
+  },
+  "composeButtonTitle": {
+    "message": "Compresser maintenant"
+  }
+}
